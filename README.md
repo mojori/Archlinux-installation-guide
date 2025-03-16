@@ -76,6 +76,11 @@ arch-chroot /mnt
 
 ## Step 2 - system config
 ```bash
+```bash
+nano /etc/pacman.conf
+-paralel downloads to 15 (change)*
+```
+
 ln -sf /usr/share/zoneinfo/Europe/Moscow /etc/localtime
 
 hwclock --systohc
