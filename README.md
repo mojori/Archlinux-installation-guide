@@ -120,6 +120,7 @@ grub-mkconfig -o /boot/grub/grub.cfg
 
 ```bash
 useradd -m -G wheel username*
+
 passwd username*
 
 visudo
