@@ -97,7 +97,7 @@ echo "LANG=en_US.UTF-8" > etc/locale.conf
 
 ```bash
 nano /etc/vconsole.conf
--KEYMAP= en (add)
+-KEYMAP=en (add)
 -FONT=cyr-sun16 (sun12x22 or else) (add)
 ```
 
