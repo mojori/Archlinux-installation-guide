@@ -1,4 +1,4 @@
-# Archlinux-installation-guide
+# Archlinux-installation-guide 🌠
 
 ## Step 1 - livecd
 
