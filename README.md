@@ -156,7 +156,7 @@ pacman -S git neofetch
 ```bash
 neofetch
 ```
-
+Be happy~ ✨
 
 
 ## nvidia drivers 💀
