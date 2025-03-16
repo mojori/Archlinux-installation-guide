@@ -166,7 +166,7 @@ pacman -S nvidia nvidia-utils nvidia-settings
 
 ```bash
 nano /etc/mkinitcpio.conf
--remove kms from HOOKD
+-remove kms from HOOKS
 ```
 
 ```bash
